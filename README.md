@@ -1,5 +1,48 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# PureFlow Air - Simple Package Demo
+
+A professional, fully-responsive air duct cleaning service website built with Next.js, MongoDB, and Tailwind CSS. This is the Simple package demo showcasing a complete business website with lead management system.
+
+## 🚀 Live Demo
+[View Demo](https://air-duct-cleaning-services-website-simple-jtznc4f2j.vercel.app/)
+
+## 📋 Features
+
+### Core Features
+- ✅ 4-page website (Home, About, Services, Contact)
+- ✅ Mobile-responsive design
+- ✅ Contact form with MongoDB integration
+- ✅ Lead storage with package tracking
+- ✅ Google Maps/OpenStreetMap integration
+- ✅ Professional color scheme for service industry
+- ✅ SEO-friendly structure
+
+### Technical Stack
+- **Framework:** Next.js 14 (App Router)
+- **Styling:** Tailwind CSS
+- **Database:** MongoDB with Mongoose
+- **Language:** JavaScript (ES6+)
+- **Email:** Resend API integration (optional)
+
+### Business Features
+- Service pricing and descriptions
+- Customer testimonials section
+- About page with company information
+- Service area coverage
+- Contact information with business hours
+
+## 🛠️ Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/waqaswebsolutions/air-duct-cleaning-services-website-simple
+.git
+cd air-duct-cleaning-services-website-simple
+
+
+
+
 ## Getting Started
 
 First, run the development server:
